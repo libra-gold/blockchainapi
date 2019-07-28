@@ -17,7 +17,7 @@ SDKs and browser provide the easiest way to integrate Libra & blockchain into bo
 - Ethereum (Coming Soon)
 - EOS (Coming Soon)
 
-# Libra Client SDKs Supported Programming Language
+# Supported Programming Language
 - Node.js
 - Javascript
 - Java
@@ -26,14 +26,14 @@ SDKs and browser provide the easiest way to integrate Libra & blockchain into bo
 - GO (Coming Soon)
 - Ruby (Coming Soon)
 
-# LibraGold Blockchain API Advantages:
-•	Simple API, avoid the complexity of blockchain 
-•	Write once, run all major cryptocurrency
-•	Speed to market
-•	Open source
-•	Support Libra & major blockchain
-•	Easy integrate with major programming languages
-•	High availability, high throughput & high security
+# LibraGold Blockchain API Advantages
+- Simple API, avoid the complexity of blockchain 
+- Write once, run all major cryptocurrency
+- Speed to market
+- Open source
+- Support Libra & major blockchain
+- Easy integrate with major programming languages
+- High availability, high throughput & high security
 
 # Offical Homepage
 http://www.libragold.co
