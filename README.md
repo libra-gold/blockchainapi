@@ -5,7 +5,7 @@ We provides Libra Blockchain-as-a-Service (Baas) - makes it easy to build blockc
 # LibraGold Blockchain API
 Using the LibraGold Blockchain API allows your organization to interact different blockchain with one single API. Its cloud based and multiple hosted full blockchain nodes enable high availability, high throughput and high security
 
-# Open source Libra & blockchain client SDKs and browser 
+# Open Source Blockchain Client SDKs & Browser 
 SDKs and browser provide the easiest way to integrate Libra & blockchain into both new and existing applications. LibraGold Client SDKs are able to integrate with major programming languages thus making integration simple.
 
 # Supported Cryptocurrency
